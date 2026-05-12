@@ -31,13 +31,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasiru-I&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yasiru-I&show_icons=true&theme=radical)](https://github.com/Yasiru-I)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasiru-I&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yasiru-I&layout=compact&theme=radical)](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yasiru-I)
 
 
 ### 📫 Let's Connect
