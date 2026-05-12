@@ -29,9 +29,15 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasiru-I&show_icons=true&theme=tokyonight)](https://github.com/Yasiru-I)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasiru-I&layout=compact&theme=tokyonight)](https://github.com/Yasiru-I)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasiru-I&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasiru-I&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 
 ### 📫 Let's Connect
